@@ -53,12 +53,14 @@ Only the eight largest countries per denomination are listed, so shares do not a
 
 ## How to cite
 
-Wines Export (2026). *Wines Export Observatory — November 2026 snapshot* [Data set]. https://www.wines-export.com/en/observatory
+Wines Export (2026). *Wines Export Observatory — November 2026 snapshot* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24484359
+
+Live version: https://www.wines-export.com/en/observatory
 
 ## Snapshots
 
 | month | folder |
 |---|---|
-| 2026-11 | `data/2026-11/` |
+| 2026-11 | `data/2026-11/` · DOI [10.5281/zenodo.24484359](https://doi.org/10.5281/zenodo.24484359) |
 
 Each monthly snapshot is published as a GitHub release.
